@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9061fb06-5e50-4d4c-aa0c-e692e16d421a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Client2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Client2.py" afterDir="false" />
+    <list default="true" id="9061fb06-5e50-4d4c-aa0c-e692e16d421a" name="Changes" comment="Code Updated 2">
+      <change beforePath="$PROJECT_DIR$/Server2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Server2">
     <configuration name="Client2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ServerClient2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,8 +51,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Server2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ServerClient2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Server2" />
         <item itemvalue="Python.Client2" />
       </list>
     </recent_temporary>
@@ -80,12 +102,39 @@
       <option name="project" value="LOCAL" />
       <updated>1660837865829</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Code Updated">
+      <created>1660842976017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660842976017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code Updated 2">
+      <created>1660843133623</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660843133623</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Servr IP Updated" />
     <MESSAGE value="Servr IP Updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Servr IP Updated." />
+    <MESSAGE value="Code Updated" />
+    <MESSAGE value="Code Updated 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Updated 2" />
   </component>
 </project>
