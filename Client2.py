@@ -1,8 +1,8 @@
-
 import socket
 HEADERSIZE = 10
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect((socket.gethostname(), 1234))
+IP_SERVER = '192.168.0.194'
+s.connect((IP_SERVER, 1234))
 while True:
     full_msg = ''
     new_msg = True
