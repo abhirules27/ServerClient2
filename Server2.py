@@ -1,7 +1,8 @@
 import socket
 import time
 HEADERSIZE = 10
-IP_SERVER = '192.168.0.194'
+# IP_SERVER = '192.168.0.194'
+IP_SERVER = '5.180.61.49'
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((IP_SERVER, 1234))
 s.listen(5)
